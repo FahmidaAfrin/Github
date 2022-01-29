@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "HelloWorld-Makefile",
+			"path": "HelloWorld-Makefile/HelloWorld-Makefile"
+		}
+	],
+	"settings": {}
+}
